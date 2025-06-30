@@ -8,7 +8,7 @@
 
 <hr>
 
-Ficou interessado em conhecer o projeto? Para jogar [clique aqui]()
+Ficou interessado em conhecer o projeto? Para jogar [clique aqui](https://dionizioo.github.io/GameMario/)
 
 <hr>
 
